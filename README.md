@@ -5,7 +5,7 @@
   <hr/>
   <br>
   <br/>
-  <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
+  <img src="https://kaiz-in.com/wp-content/uploads/elementor/thumbs/Technology-LinkedIn-Cover-Banner-4-qx2x67jahomy289yfhs7gas7vulsj9f3t4d0ptwz94.webp" width="300" height="280" align="right" />
 
 
 - 🔭 I’m currently working on SOFTWARE DEVELOPER ENGNEER
