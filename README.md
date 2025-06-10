@@ -5,7 +5,7 @@
   <hr/>
   <br>
   <br/>
-  <img src="https://wallpapers.com/images/high/technology-linkedin-background-ydmnv4inxvizm77d.webp" width="300" height="280" align="right" />
+  <img src="https://wallpapers.com/images/high/technology-linkedin-background-ydmnv4inxvizm77d.webp" width="300" height="250" align="right" />
 
 
 - 🔭 I’m currently working on SOFTWARE DEVELOPER ENGNEER
