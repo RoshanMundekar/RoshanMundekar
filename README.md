@@ -1,5 +1,5 @@
 
-<img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
+<img src="https://kaiz-in.com/wp-content/uploads/elementor/thumbs/Technology-LinkedIn-Cover-Banner-4-qx2x67jahomy289yfhs7gas7vulsj9f3t4d0ptwz94.webp" />
 <h1 align="center">Hi 👋, I'm Roshan Mundekar</h1>
 <h3 align="center">Passionate about implementing and launching new projects. I also possess the ability to translate business requirements into technical solutions. I am looking to start my career as a web developer driven by technology.</h3
   <hr/>
