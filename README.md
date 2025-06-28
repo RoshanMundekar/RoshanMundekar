@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning AI/ML
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/RoshanMundekar/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-v16k.vercel.app/)
 
 - 📫 How to reach me <b>mundekarroshan566@gmail.com</b>
 
